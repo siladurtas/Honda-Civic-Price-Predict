@@ -1,0 +1,8 @@
+mileage
+enginePower
+damage_score
+vehicle_age
+location
+color
+transmission
+model

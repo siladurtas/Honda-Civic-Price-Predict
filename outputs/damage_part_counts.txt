@@ -1,0 +1,31 @@
+Changed Parts Counts:
+===================
+Sağ Ön Çamurluk: 312
+Sol Ön Çamurluk: 309
+Motor Kaputu: 291
+Arka Kaput: 201
+Sol Arka Kapı: 110
+Sol Ön Kapı: 106
+Sağ Ön Kapı: 100
+Sağ Arka Kapı: 84
+Ön Tampon: 77
+Arka Tampon: 64
+Sol Arka Çamurluk: 62
+Sağ Arka Çamurluk: 35
+Tavan: 4
+
+Painted Parts Counts:
+===================
+Sağ Arka Çamurluk: 617
+Sol Arka Çamurluk: 610
+Sağ Arka Kapı: 552
+Sol Ön Kapı: 521
+Sol Arka Kapı: 520
+Sağ Ön Kapı: 517
+Sol Ön Çamurluk: 507
+Sağ Ön Çamurluk: 476
+Arka Kaput: 389
+Motor Kaputu: 373
+Arka Tampon: 321
+Ön Tampon: 291
+Tavan: 141

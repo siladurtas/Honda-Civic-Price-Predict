@@ -1,0 +1,20 @@
+
+Model: LinearRegression
+  --- Train Set Metrics ---
+    RMSE: 0.1308
+    R2 Score: 0.9445
+    MAE: 0.0920
+  --- Test Set Metrics ---
+    RMSE: 0.1508
+    R2 Score: 0.9250
+    MAE: 0.1020
+
+Model: Ridge
+  --- Train Set Metrics ---
+    RMSE: 0.1308
+    R2 Score: 0.9445
+    MAE: 0.0920
+  --- Test Set Metrics ---
+    RMSE: 0.1508
+    R2 Score: 0.9250
+    MAE: 0.1020

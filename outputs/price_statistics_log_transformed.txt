@@ -1,0 +1,7 @@
+Price Statistics (Log-Transformed Scale):
+=====================================
+Mean Price (log): 13.55
+Median Price (log): 13.57
+Min Price (log): 11.88
+Max Price (log): 15.17
+Standard Deviation (log): 0.55
